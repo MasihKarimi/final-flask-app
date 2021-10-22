@@ -1,0 +1,1 @@
+web: gunicorn access_point:app

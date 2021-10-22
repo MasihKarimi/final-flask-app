@@ -1,0 +1,35 @@
+,Analyse Précédents ,Résultat ,Unité ,Référence 
+0,Hématologie ,,,
+1,Hémoglobine ,145 ,g/L ,120 160 
+2,Hématocrite ,0.459 ,L/L ,0.360 0.460 
+3,Erythrocytes ,4.80 ,T/L ,4.00 5.10 
+4,MCV (VGM) ,96 ,fL ,80 100 
+5,MCH (TCMH) ,30.3 ,pg ,26.0 34.0 
+6,MCHC (CCMH) ,316 ,g/L ,330 358 
+7,Erythrocytes: RDW ,13.2 ,% ,11.0 16.0 
+8,Thrombocytes ,248 ,G/L ,150 450 
+9,Leucocytes ,7.8 ,G/L ,4.5 11.5 
+10,Neutrophiles ,4.90 ,G/L ,1.40 8.00 
+11,Eosinophiles ,0.15 ,G/L ,< 0.70 
+12,Basophiles ,0.03 ,G/L ,< 0.20 
+13,Monocytes ,0.35 ,G/L ,0.16 0.95 
+14,Lymphocytes ,2.38 ,G/L ,1.50 4.00 
+15,,,,
+16,Métabolisme ,,,
+17,Sodium ,139 ,mmol/L ,135 147 
+18,Potassium ,4.7 ,mmol/L ,3.5 - 5.1 
+19,Calcium ,2.39 ,mmol/L ,2.18 - 2.60 
+20,Phosphates ,1.13 ,mmol/L ,0.81 1.61 
+21,Ferritine ,44 ,g/L ,30-300 
+22,Cholestérol total ,4.5 ,mmol/L ,<5.0 
+23,Cholestérol HDL ,1.59 ,mmol/L ,> 1.00 
+24,Cholestérol / HDL ,2.8 ,mmol/mmol ,<5.0 
+25,Cholestérol LDL ,2.58 ,mmol/L ,< 3.0 
+26,Triglycérides ,0.73 ,mmol/L ,< 1.70 
+27,Risque cardiovasculaire ,Note ,,
+28,-> voir commentaire ,1. ,,
+29,Bilirubine totale ,15 ,umol/L ,< 21 
+30,Urates ,212 ,umol/L ,184-464 
+31,Urée ,4.4 ,mmol/L ,3.2-8.2 
+32,Créatinine ,65 ,umol/L ,44-71 
+33,GFR (CKD-EPI) ,110 ,ml/min/1.73m2 ,> 90 
