@@ -211,7 +211,6 @@ rich==10.3.0
 rope==0.17.0
 rsa
 s3transfer
-scikit-image==0.16.2
 scikit-learn
 scipy
 scrapely==0.14.1
