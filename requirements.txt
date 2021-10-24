@@ -240,7 +240,7 @@ StringDist==1.0.9
 table-ocr==0.2.5
 tblib==1.6.0
 tensorboard
-tensorflow==2.3.0
+tensorflow
 tensorflow-estimator
 termcolor==1.1.0
 terminado==0.8.3
