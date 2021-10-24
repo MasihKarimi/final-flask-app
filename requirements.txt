@@ -114,7 +114,6 @@ Keras-Applications
 Keras-Preprocessing
 kiwisolver==1.2.0
 lazy-object-proxy
-llvmlite==0.33.0+1.g022ab0f
 locket==0.2.0
 Markdown
 MarkupSafe
