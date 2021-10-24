@@ -44,7 +44,6 @@ jupyterlab
 jupyterlab-pygments
 keras
 keras-applications
-lazy-object-proxy
 mkl-fft
 mkl-random
 mkl-service
