@@ -72,7 +72,6 @@ pyserial
 pysocks
 pytest
 pywin32-ctypes
-pywinpty
 qdarkstyle
 qtawesome
 redis
