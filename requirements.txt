@@ -41,7 +41,6 @@ isort
 jdcal
 jupyter
 jupyterlab
-jupyterlab-pygments
 mkl-fft
 mkl-random
 mkl-service
