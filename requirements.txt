@@ -19,7 +19,6 @@ attrs==19.3.0
 Babel==2.8.0
 backcall 
 backports.tempfile
-backports.weakref==1.0.post1
 bcrypt==3.1.7
 beautifulsoup4
 bkcharts==0.2
@@ -30,7 +29,6 @@ boltons==21.0.0
 boto==2.49.0
 boto3
 botocore
-Bottleneck==1.3.2
 brotlipy==0.7.0
 cachetools
 catalogue==1.0.0
