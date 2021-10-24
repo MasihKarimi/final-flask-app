@@ -42,7 +42,6 @@ jdcal
 jupyter
 jupyterlab
 jupyterlab-pygments
-keras
 mkl-fft
 mkl-random
 mkl-service
@@ -118,3 +117,5 @@ xmltodict
 zict
 zope.event
 zope.interface
+pandas
+Werkzeug
