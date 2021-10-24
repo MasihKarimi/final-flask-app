@@ -240,7 +240,6 @@ StringDist==1.0.9
 table-ocr==0.2.5
 tblib==1.6.0
 tensorboard
-tensorboard-plugin-wit==1.6.0
 tensorflow==2.3.0
 tensorflow-estimator
 termcolor==1.1.0
