@@ -43,7 +43,6 @@ jupyter
 jupyterlab
 jupyterlab-pygments
 keras
-keras-applications
 mkl-fft
 mkl-random
 mkl-service
